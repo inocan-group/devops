@@ -7,4 +7,5 @@ export const commands: ICommandDescription[] = [
   },
   { name: "get", summary: "get details on a specific secret" },
   { name: "set", summary: "set the value for a given secret" },
+  { name: "remove", summary: "remove the secret from the aws account"}
 ];

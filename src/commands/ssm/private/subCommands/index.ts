@@ -2,13 +2,14 @@
 
 // #region autoindexed files
 
-// index last changed at: 10th Oct, 2020, 08:44 AM ( GMT-7 )
+// index last changed at: 3rd Mar, 2021, 12:02 AM ( GMT+1 )
 // export: namedOffset; exclusions: index, private.
-// files: get, list, set.
+// files: get, list, remove, set.
 
 // local file exports
 export * as get from "./get";
 export * as list from "./list";
+export * as remove from "./remove";
 export * as set from "./set";
 
 // Note:
